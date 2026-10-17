@@ -375,7 +375,7 @@ Listed to make the scope boundary explicit. Each may be reconsidered in a future
 |---|---|---|
 | RGFM1 – RGFM1.4 | R-001 – R-001.4 | Text clarified ("according to a statically configured routing table"). |
 | RGFM2 | R-002 | – |
-| RGFM3 | R-003 | References Virtual IP (Glossary). |
+| RGFM3 | R-003 | Restated for the NAT-section model (Glossary: *NAT section*). |
 | RGFM4 | R-004 | **Disambiguated**: v1 said "SLAAC on all configured interfaces", which conflates client (WAN) and router (LAN) roles. Now: Router Advertisement on RA-mode Interfaces. |
 | RGFM5 | R-005 | Added "never dropped by Policies" (needed for consistency with R-033). |
 | RGFM6, RGFM7, RGFM8 | R-006, R-006.1, R-006.2 | Merged. |
